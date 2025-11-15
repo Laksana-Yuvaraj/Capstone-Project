@@ -1,0 +1,6 @@
+spacy
+transformers
+pdfplumber
+python-docx
+flask
+pytest
